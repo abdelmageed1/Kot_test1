@@ -7,7 +7,10 @@ fun main(args: Array<String>) {
 
     )
 
-    mymap["mi"]=30 
+    mymap["mi"]=30
+    println("upDated")
+    println("upDated")
+    println("upDated")
     println(mymap["abdo"])
 
 
